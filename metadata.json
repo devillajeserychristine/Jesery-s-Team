@@ -1,0 +1,6 @@
+{
+  "name": "Annafunan IS Captive Portal & Voucher System",
+  "description": "Captive portal and voucher management system for Annafunan Integrated School with student & admin authentication, real-time session tracking, and bandwidth usage monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
